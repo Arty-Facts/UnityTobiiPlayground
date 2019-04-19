@@ -1,2 +1,2 @@
 # UnityTobiiPlayground
-Test out Tobii eyetrackor in Unity
+Testing Tobii eyetrackor in Unity
